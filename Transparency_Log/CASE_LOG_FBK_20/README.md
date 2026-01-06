@@ -92,7 +92,7 @@ We stop asking for permission. All future infrastructure (**Centre Bazarov / GRI
 * [📄 FSO Russia Disclaimer](./2025-03-25_FSO_Russia_Disclaimer.pdf)
 
 **ANALYTICAL REPORTS:**
-* [📄 **Full Audit Report (Print Version)**](./2026-01-06_FINAL_AUDIT_REPORT_PRINT.pdf)
+* [📄 **Full Audit Report (Print Version)**](./2026-01-06_FINAL_AUDIT_REPORT_PRINT.md.pdf)
 * [📄 **Raw Text Analysis (Claude AI)**](./FULL_AUDIT_REPORT_RAW.md)
 
 [ **🔙 RETURN TO TRANSPARENCY LOG (MAIN TERMINAL)** ]
