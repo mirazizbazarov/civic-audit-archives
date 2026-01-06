@@ -93,6 +93,6 @@ We stop asking for permission. All future infrastructure (**Centre Bazarov / GRI
 
 **ANALYTICAL REPORTS:**
 * [📄 **Full Audit Report (Print Version)**](./2026-01-06_FINAL_AUDIT_REPORT_PRINT.md.pdf)
-* [📄 **Raw Text Analysis (Claude AI)**](./FULL_AUDIT_REPORT_RAW.md)
+* [📄 **Raw Text Analysis (Claude AI)**](./FULL_AUDIT_REPORT.md)
 
 [ **🔙 RETURN TO TRANSPARENCY LOG (MAIN TERMINAL)** ]
