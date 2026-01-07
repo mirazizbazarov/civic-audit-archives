@@ -5,7 +5,7 @@
 
 ### CONTENTS
 
-1. **Georgia_Border_Denial_Analysis.pdf**
+1. **Legal_Analysis_Georgia_Border_Denial_v2_corrected.pdf**
    * **Event:** Arbitrary refusal of entry at Sadakhlo (Aug 27, 2025).
    * **Legal Status:** Proven violation of Georgian Law (No "Work Visa" requirement existed).
    * **Relevance:** Proves that the applicant was in "Transit/Limbo," contradicting FLD's claim of "Already Relocated."
